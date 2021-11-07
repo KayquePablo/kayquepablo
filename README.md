@@ -1,4 +1,30 @@
-### Hi there 👋
+## Ola! Eu sou Kayque Pablo
+
+
+- 🌱 Estudando novas tecnologias como: NodeJs, React...
+- 🤞 Em Fase de transição de carreira e em busca da primeira oportunidade 💻
+
+##
+
+<div align = "center">
+ <a href="https://github.com/alexsgross">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kayquepablo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayquepablo&layout=compact&langs_count=7&theme=dark"/>
+</div> <br>
+  
+  ##
+  
+<div align = "center">
+  <h3>Tecnologias</h3>
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
+</div>
+  
+##
+
+
+
 
 <!--
 **KayquePablo/kayquepablo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
