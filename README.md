@@ -22,12 +22,16 @@
   <img align="center" alt="JQuery" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain-wordmark.svg">
   <img align="center" alt="Bootstrap" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
   <img align="center" alt="NodeJS" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
-  <img align="center" alt="MongoDB" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
-  <img align="center" alt="MongoDB" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
+  <img align="center" alt="MongoDB" width="60" sr
 </div>
   
 ##
 
+<div align = "center">
+ <a href="https://www.instagram.com/kayquepablo_gtr" target="_blank"><img align="center" alt="IN" width="120" height="30" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href = "mailto:kayquepablotzero@icloud.com"><img align="center" alt="IN" width="120" height="30" src="https://img.shields.io/badge/-Icloud-%23333?style=for-the-badge&logo=icloud&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/kayque-pablo-141a7021a" target="_blank"><img align="center" alt="IN" width="120" height="30" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
 
 
